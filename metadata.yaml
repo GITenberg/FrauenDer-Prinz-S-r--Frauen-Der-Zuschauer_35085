@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34714
     wikipedia: http://de.wikipedia.org/wiki/Kasimir_Edschmid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35085#FrauenDer-Prinz-S-r--Frauen-Der-Zuschauer
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-01-26'
 gutenberg_type: Text
